@@ -1,0 +1,9 @@
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/obj/x86/Debug/Lab_10_Strings.csprojAssemblyReference.cache
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/obj/x86/Debug/Lab_10_Strings.csproj.CoreCompileInputs.cache
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/bin/Debug/Lab_10_Strings.exe
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/bin/Debug/Lab_10_Strings.pdb
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/bin/Debug/Newtonsoft.Json.dll
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/bin/Debug/Newtonsoft.Json.xml
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/obj/x86/Debug/Lab_10_Strings.csproj.CopyComplete
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/obj/x86/Debug/Lab_10_Strings.exe
+/Users/kaparray/Projects/Lab_10_Strings/Lab_10_Strings/obj/x86/Debug/Lab_10_Strings.pdb
